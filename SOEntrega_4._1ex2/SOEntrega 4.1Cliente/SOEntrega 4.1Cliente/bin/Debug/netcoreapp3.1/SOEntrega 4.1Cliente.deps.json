@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "SOEntrega 4.1Cliente/1.0.0": {
+        "runtime": {
+          "SOEntrega 4.1Cliente.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SOEntrega 4.1Cliente/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
